@@ -1,0 +1,3 @@
+[submodule "latheofheaven/themes/ananke"]
+	path = latheofheaven/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
